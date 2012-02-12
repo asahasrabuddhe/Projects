@@ -1,0 +1,92 @@
+[Root]
+Most Recent Package=NetMan Client
+
+
+[Package|NetMan Client|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Program Files\Microsoft Visual Studio\Programs\NetMan\NetMan Final\Setup Files\Client
+
+[Package|NetMan Client|Configure DAO ISAMs]
+Applicable=No
+
+[Package|NetMan Client|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|NetMan Client|Files Found]
+
+[Package|NetMan Client|Files Released]
+
+[Package|NetMan Client|Missing Dependency Information]
+
+[Package|NetMan Client|Out-of-Date Dependency Information]
+
+[Package|NetMan Client|Files Added]
+
+[Package|NetMan Client|Files Removed]
+
+[Package|NetMan Client|Files In Project]
+C:\Program Files\Microsoft Visual Studio\Programs\NetMan\NetMan Final\Client\Executables\NMC.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\DIjpg.dll=Yes
+C:\WINDOWS\system32\MSWINSCK.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|NetMan Client|Configure Registry Files]
+Applicable=No
+
+[Package|NetMan Client|Configure Remote Servers]
+Applicable=No
+
+[Package|NetMan Client|Install Locations]
+C:\Program Files\Microsoft Visual Studio\Programs\NetMan\NetMan Final\Client\Executables\NMC.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\DIjpg.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSWINSCK.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|NetMan Client|Configure Shared Files]
+Applicable=Yes
+C:\Program Files\Microsoft Visual Studio\Programs\NetMan\NetMan Final\Client\Executables\NMC.exe=No
+
+[Package|NetMan Client|Distribution]
+Type=single
+Size=
+Title=Jamesosoft Netman Client
+
+[Package|NetMan Client|IconGroups]
+Group0=Startup
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|NetMan Client|Startup]
+Icon1=NMC.exe
+Title1=NMC
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|NetMan Client|Package]
+PackageFolder=C:\Program Files\Microsoft Visual Studio\Programs\NetMan\NetMan Final\Setup Files\Client
+ProjectFolder=C:\Program Files\Microsoft Visual Studio\Programs\NetMan\NetMan Final\Client
+ServerSideCab=
+File1=C:\Program Files\Microsoft Visual Studio\Programs\NetMan\NetMan Final\Setup Files\Client\setup.exe
+File2=C:\Program Files\Microsoft Visual Studio\Programs\NetMan\NetMan Final\Setup Files\Client\Setup.Lst
+File3=C:\Program Files\Microsoft Visual Studio\Programs\NetMan\NetMan Final\Setup Files\Client\NMC.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

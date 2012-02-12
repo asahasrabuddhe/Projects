@@ -1,0 +1,9 @@
+Start:	MVI A, 0AH
+	CALL L2
+	CMA
+	STA 6000H
+	HLT
+L2:	MOV A,B
+	PUSH D
+	POP D
+	RST 1

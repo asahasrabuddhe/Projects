@@ -1,0 +1,165 @@
+<GRAMMAR LANGID="409">
+	<DEFINE>
+		<ID NAME="RID_ExitAlphabeticState" VAL="100"></ID>
+		<ID NAME="RID_Enter" VAL="200"></ID>
+		<ID NAME="RID_PureEscape" VAL="201"></ID>
+		<ID NAME="RID_BackSpace" VAL="101"></ID>
+		<ID NAME="RID_At" VAL="103"></ID>
+		<ID NAME="RID_UnderLine" VAL="104"></ID>
+		<ID NAME="RID_Dash" VAL="105"></ID>
+		<ID NAME="RID_Dot" VAL="106"></ID>
+		<ID NAME="RID_BackSlash" VAL="107"></ID>
+		<ID NAME="RID_AlphabeticStateNo" VAL="108"></ID>
+
+		<ID NAME="RID_A" VAL="0"></ID>
+		<ID NAME="RID_B" VAL="1"></ID>
+		<ID NAME="RID_C" VAL="2"></ID>
+		<ID NAME="RID_D" VAL="3"></ID>
+		<ID NAME="RID_E" VAL="4"></ID>
+		<ID NAME="RID_F" VAL="5"></ID>
+		<ID NAME="RID_G" VAL="6"></ID>
+		<ID NAME="RID_H" VAL="7"></ID>
+		<ID NAME="RID_I" VAL="8"></ID>
+		<ID NAME="RID_J" VAL="9"></ID>
+		<ID NAME="RID_K" VAL="10"></ID>
+		<ID NAME="RID_L" VAL="11"></ID>
+		<ID NAME="RID_M" VAL="12"></ID>
+		<ID NAME="RID_N" VAL="13"></ID>
+		<ID NAME="RID_O" VAL="14"></ID>
+		<ID NAME="RID_P" VAL="15"></ID>
+		<ID NAME="RID_Q" VAL="16"></ID>
+		<ID NAME="RID_R" VAL="17"></ID>
+		<ID NAME="RID_S" VAL="18"></ID>
+		<ID NAME="RID_T" VAL="19"></ID>
+		<ID NAME="RID_U" VAL="20"></ID>
+		<ID NAME="RID_V" VAL="21"></ID>
+		<ID NAME="RID_W" VAL="22"></ID>
+		<ID NAME="RID_X" VAL="23"></ID>
+		<ID NAME="RID_Y" VAL="24"></ID>
+		<ID NAME="RID_Z" VAL="25"></ID>
+
+		<ID NAME="RID_ShowCommands" VAL="300"></ID>
+	</DEFINE>
+
+	<RULE NAME="ActivateWithoutAnimation" ID="RID_ExitAlphabeticState" TOPLEVEL="ACTIVE">
+		<P>exit alphabetic state</P>
+	</RULE>
+	<RULE NAME="Enter" ID="RID_Enter" TOPLEVEL="ACTIVE">
+		<L>
+			<P>enter</P>
+			<P>O K</P>
+		</L>
+	</RULE>
+	<RULE NAME="PureEscape" ID="RID_PureEscape" TOPLEVEL="ACTIVE">
+		<L>
+			<P>escape</P>
+			<P>cancel</P>
+		</L>
+	</RULE>
+	<RULE NAME="BackSpace" ID="RID_BackSpace" TOPLEVEL="ACTIVE">
+		<L>
+			<P>back</P>
+			<P>back space</P>
+		</L>
+	</RULE>
+	<RULE NAME="At" ID="RID_At" TOPLEVEL="ACTIVE">
+		<P>at</P>
+	</RULE>
+	<RULE NAME="UnderLine" ID="RID_UnderLine" TOPLEVEL="ACTIVE">
+		<P>under line</P>
+	</RULE>
+	<RULE NAME="Dash" ID="RID_Dash" TOPLEVEL="ACTIVE">
+		<P>dash</P>
+	</RULE>
+	<RULE NAME="Dot" ID="RID_Dot" TOPLEVEL="ACTIVE">
+		<P>dot</P>
+	</RULE>
+	<RULE NAME="BackSlash" ID="RID_BackSlash" TOPLEVEL="ACTIVE">
+		<P>back slash</P>
+	</RULE>
+	<RULE NAME="AlphabeticStateNo" ID="RID_AlphabeticStateNo" TOPLEVEL="ACTIVE">
+		<P>no</P>
+	</RULE>
+	
+	<RULE NAME="abcA" ID="RID_A" TOPLEVEL="ACTIVE">
+		<P>a</P>
+	</RULE>
+	<RULE NAME="abcB" ID="RID_B" TOPLEVEL="ACTIVE">
+		<P>b</P>
+	</RULE>
+	<RULE NAME="abcC" ID="RID_C" TOPLEVEL="ACTIVE">
+		<P>c</P>
+	</RULE>
+	<RULE NAME="abcD" ID="RID_D" TOPLEVEL="ACTIVE">
+		<P PRON="d iy">d</P>
+	</RULE>
+	<RULE NAME="abcE" ID="RID_E" TOPLEVEL="ACTIVE">
+		<P WEIGHT=".5">e</P>
+	</RULE>
+	<RULE NAME="abcF" ID="RID_F" TOPLEVEL="ACTIVE">
+		<P>f</P>
+	</RULE>
+	<RULE NAME="abcG" ID="RID_G" TOPLEVEL="ACTIVE">
+		<P>g</P>
+	</RULE>
+	<RULE NAME="abcH" ID="RID_H" TOPLEVEL="ACTIVE">
+		<P>h</P>
+	</RULE>
+	<RULE NAME="abcI" ID="RID_I" TOPLEVEL="ACTIVE">
+		<P>i</P>
+	</RULE>
+	<RULE NAME="abcJ" ID="RID_J" TOPLEVEL="ACTIVE">
+		<P>j</P>
+	</RULE>
+	<RULE NAME="abcK" ID="RID_K" TOPLEVEL="ACTIVE">
+		<P>k</P>
+	</RULE>
+	<RULE NAME="abcL" ID="RID_L" TOPLEVEL="ACTIVE">
+		<P>l</P>
+	</RULE>
+	<RULE NAME="abcM" ID="RID_M" TOPLEVEL="ACTIVE">
+		<P>m</P>
+	</RULE>
+	<RULE NAME="abcN" ID="RID_N" TOPLEVEL="ACTIVE">
+		<P DISP="n">en</P>
+	</RULE>
+	<RULE NAME="abcO" ID="RID_O" TOPLEVEL="ACTIVE">
+		<P>o</P>
+	</RULE>
+	<RULE NAME="abcP" ID="RID_P" TOPLEVEL="ACTIVE">
+		<P>p</P>
+	</RULE>
+	<RULE NAME="abcQ" ID="RID_Q" TOPLEVEL="ACTIVE">
+		<P>q</P>
+	</RULE>
+	<RULE NAME="abcR" ID="RID_R" TOPLEVEL="ACTIVE">
+		<P>r</P>
+	</RULE>
+	<RULE NAME="abcS" ID="RID_S" TOPLEVEL="ACTIVE">
+		<P>s</P>
+	</RULE>
+	<RULE NAME="abcT" ID="RID_T" TOPLEVEL="ACTIVE">
+		<P>t</P>
+	</RULE>
+	<RULE NAME="abcU" ID="RID_U" TOPLEVEL="ACTIVE">
+		<P>u</P>
+	</RULE>
+	<RULE NAME="abcV" ID="RID_V" TOPLEVEL="ACTIVE">
+		<P PRON="v iy">v</P>
+	</RULE>
+	<RULE NAME="abcW" ID="RID_W" TOPLEVEL="ACTIVE">
+		<P>w</P>
+	</RULE>
+	<RULE NAME="abcX" ID="RID_X" TOPLEVEL="ACTIVE">
+		<P>x</P>
+	</RULE>
+	<RULE NAME="abcY" ID="RID_Y" TOPLEVEL="ACTIVE">
+		<P>y</P>
+	</RULE>
+	<RULE NAME="abcZ" ID="RID_Z" TOPLEVEL="ACTIVE">
+		<P>z</P>
+	</RULE>
+	<RULE NAME="ShowCommands" ID="RID_ShowCommands" TOPLEVEL="ACTIVE">
+		<P>commands list</P>
+	</RULE>
+</GRAMMAR>

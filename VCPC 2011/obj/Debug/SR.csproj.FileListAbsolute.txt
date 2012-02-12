@@ -1,0 +1,133 @@
+C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\obj\Debug\Interop.AgentObjects.dll
+C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\obj\Debug\Interop.Shell32.dll
+C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\obj\Debug\Interop.SpeechLib.dll
+C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\obj\Debug\AxInterop.AgentObjects.dll
+C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\obj\Debug\SR.csproj.ResolveComReference.cache
+C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\bin\Debug\SR.exe
+C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\bin\Debug\SR.pdb
+C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\bin\Debug\Interop.AgentObjects.dll
+C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\bin\Debug\Interop.Shell32.dll
+C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\bin\Debug\Interop.SpeechLib.dll
+C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\bin\Debug\AxInterop.AgentObjects.dll
+C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\obj\Debug\SR.frmAbout.resources
+C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\obj\Debug\SR.frmAccuracyChange.resources
+C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\obj\Debug\SR.frmAddFavorites.resources
+C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\obj\Debug\SR.frmCommands.resources
+C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\obj\Debug\SR.frmFavorites.resources
+C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\obj\Debug\SR.frmMain.resources
+C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\obj\Debug\SR.frmProfileChange.resources
+C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\obj\Debug\SR.csproj.GenerateResource.Cache
+C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\obj\Debug\SR.exe
+C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\obj\Debug\SR.pdb
+D:\Shiva Soft\Projects\Projects to batch 2011\Batch 2011\VCPC\Good\VCPC 2011\bin\Debug\SR.exe
+D:\Shiva Soft\Projects\Projects to batch 2011\Batch 2011\VCPC\Good\VCPC 2011\bin\Debug\SR.pdb
+D:\Shiva Soft\Projects\Projects to batch 2011\Batch 2011\VCPC\Good\VCPC 2011\bin\Debug\Interop.AgentObjects.dll
+D:\Shiva Soft\Projects\Projects to batch 2011\Batch 2011\VCPC\Good\VCPC 2011\bin\Debug\Interop.Shell32.dll
+D:\Shiva Soft\Projects\Projects to batch 2011\Batch 2011\VCPC\Good\VCPC 2011\bin\Debug\Interop.SpeechLib.dll
+D:\Shiva Soft\Projects\Projects to batch 2011\Batch 2011\VCPC\Good\VCPC 2011\bin\Debug\AxInterop.AgentObjects.dll
+D:\Shiva Soft\Projects\Projects to batch 2011\Batch 2011\VCPC\Good\VCPC 2011\obj\Debug\ResolveAssemblyReference.cache
+D:\Shiva Soft\Projects\Projects to batch 2011\Batch 2011\VCPC\Good\VCPC 2011\obj\Debug\Interop.AgentObjects.dll
+D:\Shiva Soft\Projects\Projects to batch 2011\Batch 2011\VCPC\Good\VCPC 2011\obj\Debug\Interop.Shell32.dll
+D:\Shiva Soft\Projects\Projects to batch 2011\Batch 2011\VCPC\Good\VCPC 2011\obj\Debug\Interop.SpeechLib.dll
+D:\Shiva Soft\Projects\Projects to batch 2011\Batch 2011\VCPC\Good\VCPC 2011\obj\Debug\AxInterop.AgentObjects.dll
+D:\Shiva Soft\Projects\Projects to batch 2011\Batch 2011\VCPC\Good\VCPC 2011\obj\Debug\SR.csproj.ResolveComReference.cache
+D:\Shiva Soft\Projects\Projects to batch 2011\Batch 2011\VCPC\Good\VCPC 2011\obj\Debug\SR.frmAbout.resources
+D:\Shiva Soft\Projects\Projects to batch 2011\Batch 2011\VCPC\Good\VCPC 2011\obj\Debug\SR.frmAccuracyChange.resources
+D:\Shiva Soft\Projects\Projects to batch 2011\Batch 2011\VCPC\Good\VCPC 2011\obj\Debug\SR.frmAddFavorites.resources
+D:\Shiva Soft\Projects\Projects to batch 2011\Batch 2011\VCPC\Good\VCPC 2011\obj\Debug\SR.frmCommands.resources
+D:\Shiva Soft\Projects\Projects to batch 2011\Batch 2011\VCPC\Good\VCPC 2011\obj\Debug\SR.frmFavorites.resources
+D:\Shiva Soft\Projects\Projects to batch 2011\Batch 2011\VCPC\Good\VCPC 2011\obj\Debug\SR.frmMain.resources
+D:\Shiva Soft\Projects\Projects to batch 2011\Batch 2011\VCPC\Good\VCPC 2011\obj\Debug\SR.frmProfileChange.resources
+D:\Shiva Soft\Projects\Projects to batch 2011\Batch 2011\VCPC\Good\VCPC 2011\obj\Debug\SR.csproj.GenerateResource.Cache
+D:\Shiva Soft\Projects\Projects to batch 2011\Batch 2011\VCPC\Good\VCPC 2011\obj\Debug\SR.exe
+D:\Shiva Soft\Projects\Projects to batch 2011\Batch 2011\VCPC\Good\VCPC 2011\obj\Debug\SR.pdb
+E:\Good\VCPC 2011\bin\Debug\SR.exe
+E:\Good\VCPC 2011\bin\Debug\SR.pdb
+E:\Good\VCPC 2011\bin\Debug\Interop.AgentObjects.dll
+E:\Good\VCPC 2011\bin\Debug\Interop.Shell32.dll
+E:\Good\VCPC 2011\bin\Debug\Interop.SpeechLib.dll
+E:\Good\VCPC 2011\bin\Debug\AxInterop.AgentObjects.dll
+E:\Good\VCPC 2011\obj\Debug\ResolveAssemblyReference.cache
+E:\Good\VCPC 2011\obj\Debug\Interop.AgentObjects.dll
+E:\Good\VCPC 2011\obj\Debug\Interop.Shell32.dll
+E:\Good\VCPC 2011\obj\Debug\Interop.SpeechLib.dll
+E:\Good\VCPC 2011\obj\Debug\AxInterop.AgentObjects.dll
+E:\Good\VCPC 2011\obj\Debug\SR.csproj.ResolveComReference.cache
+E:\Good\VCPC 2011\obj\Debug\SR.frmAbout.resources
+E:\Good\VCPC 2011\obj\Debug\SR.frmAccuracyChange.resources
+E:\Good\VCPC 2011\obj\Debug\SR.frmAddFavorites.resources
+E:\Good\VCPC 2011\obj\Debug\SR.frmCommands.resources
+E:\Good\VCPC 2011\obj\Debug\SR.frmFavorites.resources
+E:\Good\VCPC 2011\obj\Debug\SR.frmMain.resources
+E:\Good\VCPC 2011\obj\Debug\SR.frmProfileChange.resources
+E:\Good\VCPC 2011\obj\Debug\SR.csproj.GenerateResource.Cache
+E:\Good\VCPC 2011\obj\Debug\SR.exe
+E:\Good\VCPC 2011\obj\Debug\SR.pdb
+F:\VCPC\Good\VCPC 2011\obj\Debug\Interop.AgentObjects.dll
+F:\VCPC\Good\VCPC 2011\obj\Debug\Interop.Shell32.dll
+F:\VCPC\Good\VCPC 2011\obj\Debug\Interop.SpeechLib.dll
+F:\VCPC\Good\VCPC 2011\obj\Debug\AxInterop.AgentObjects.dll
+F:\VCPC\Good\VCPC 2011\obj\Debug\SR.csproj.ResolveComReference.cache
+F:\VCPC\Good\VCPC 2011\obj\Debug\SR.exe
+F:\VCPC\Good\VCPC 2011\obj\Debug\SR.pdb
+F:\VCPC\Good\VCPC 2011\bin\Debug\SR.exe
+F:\VCPC\Good\VCPC 2011\bin\Debug\SR.pdb
+F:\VCPC\Good\VCPC 2011\bin\Debug\Interop.AgentObjects.dll
+F:\VCPC\Good\VCPC 2011\bin\Debug\Interop.Shell32.dll
+F:\VCPC\Good\VCPC 2011\bin\Debug\Interop.SpeechLib.dll
+F:\VCPC\Good\VCPC 2011\bin\Debug\AxInterop.AgentObjects.dll
+F:\VCPC\Good\VCPC 2011\obj\Debug\ResolveAssemblyReference.cache
+F:\VCPC\Good\VCPC 2011\obj\Debug\SR.frmAbout.resources
+F:\VCPC\Good\VCPC 2011\obj\Debug\SR.frmAccuracyChange.resources
+F:\VCPC\Good\VCPC 2011\obj\Debug\SR.frmAddFavorites.resources
+F:\VCPC\Good\VCPC 2011\obj\Debug\SR.frmCommands.resources
+F:\VCPC\Good\VCPC 2011\obj\Debug\SR.frmFavorites.resources
+F:\VCPC\Good\VCPC 2011\obj\Debug\SR.frmMain.resources
+F:\VCPC\Good\VCPC 2011\obj\Debug\SR.frmProfileChange.resources
+F:\VCPC\Good\VCPC 2011\obj\Debug\SR.csproj.GenerateResource.Cache
+D:\VCPC\Good\VCPC 2011\obj\Debug\Interop.AgentObjects.dll
+D:\VCPC\Good\VCPC 2011\obj\Debug\Interop.Shell32.dll
+D:\VCPC\Good\VCPC 2011\obj\Debug\Interop.SpeechLib.dll
+D:\VCPC\Good\VCPC 2011\obj\Debug\AxInterop.AgentObjects.dll
+D:\VCPC\Good\VCPC 2011\obj\Debug\SR.csproj.ResolveComReference.cache
+D:\VCPC\Good\VCPC 2011\obj\Debug\SR.exe
+D:\VCPC\Good\VCPC 2011\obj\Debug\SR.pdb
+D:\VCPC\Good\VCPC 2011\bin\Debug\SR.exe
+D:\VCPC\Good\VCPC 2011\bin\Debug\SR.pdb
+D:\VCPC\Good\VCPC 2011\bin\Debug\Interop.AgentObjects.dll
+D:\VCPC\Good\VCPC 2011\bin\Debug\Interop.Shell32.dll
+D:\VCPC\Good\VCPC 2011\bin\Debug\Interop.SpeechLib.dll
+D:\VCPC\Good\VCPC 2011\bin\Debug\AxInterop.AgentObjects.dll
+D:\VCPC\Good\VCPC 2011\obj\Debug\ResolveAssemblyReference.cache
+D:\VCPC\Good\VCPC 2011\obj\Debug\SR.frmAbout.resources
+D:\VCPC\Good\VCPC 2011\obj\Debug\SR.frmAccuracyChange.resources
+D:\VCPC\Good\VCPC 2011\obj\Debug\SR.frmAddFavorites.resources
+D:\VCPC\Good\VCPC 2011\obj\Debug\SR.frmCommands.resources
+D:\VCPC\Good\VCPC 2011\obj\Debug\SR.frmFavorites.resources
+D:\VCPC\Good\VCPC 2011\obj\Debug\SR.frmMain.resources
+D:\VCPC\Good\VCPC 2011\obj\Debug\SR.frmProfileChange.resources
+D:\VCPC\Good\VCPC 2011\obj\Debug\SR.csproj.GenerateResource.Cache
+C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\obj\Debug\Interop.Shell32.dll
+C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\obj\Debug\SR.csproj.ResolveComReference.cache
+C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\obj\Debug\SR.exe
+C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\obj\Debug\SR.pdb
+C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\obj\Debug\Interop.AgentObjects.dll
+C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\obj\Debug\AxInterop.AgentObjects.dll
+C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\bin\Debug\SR.exe
+C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\bin\Debug\SR.pdb
+C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\bin\Debug\Interop.AgentObjects.dll
+C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\bin\Debug\Interop.Shell32.dll
+C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\bin\Debug\Interop.SpeechLib.dll
+C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\bin\Debug\AxInterop.AgentObjects.dll
+C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\obj\Debug\SR.frmAbout.resources
+C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\obj\Debug\SR.frmAccuracyChange.resources
+C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\obj\Debug\SR.frmAddFavorites.resources
+C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\obj\Debug\SR.frmCommands.resources
+C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\obj\Debug\SR.frmFavorites.resources
+C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\obj\Debug\SR.frmMain.resources
+C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\obj\Debug\SR.frmProfileChange.resources
+C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\obj\Debug\ResGen.read.1.tlog
+C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\obj\Debug\ResGen.write.1.tlog

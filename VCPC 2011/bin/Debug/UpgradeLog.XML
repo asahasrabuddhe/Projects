@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SR">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\SR.sln">
+</Property><Property Name="Date" Value="Saturday, January 01, 2011">
+</Property><Property Name="Time" Value="12:49 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SR.sln" Description="File successfully backed up as C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\Backup\SR.sln">
+</Event><Event ErrorLevel="0" Project="SR" Source="SR.csproj" Description="Project file successfully backed up as C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\Backup\SR.csproj">
+</Event><Event ErrorLevel="0" Project="SR" Source="SR.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\Backup\SR.csproj.user">
+</Event><Event ErrorLevel="0" Project="SR" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SR" Source="frmAbout.cs" Description="File successfully backed up as C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\Backup\frmAbout.cs">
+</Event><Event ErrorLevel="0" Project="SR" Source="frmAccuracyChange.cs" Description="File successfully backed up as C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\Backup\frmAccuracyChange.cs">
+</Event><Event ErrorLevel="0" Project="SR" Source="frmAddFavorites.cs" Description="File successfully backed up as C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\Backup\frmAddFavorites.cs">
+</Event><Event ErrorLevel="0" Project="SR" Source="frmCommands.cs" Description="File successfully backed up as C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\Backup\frmCommands.cs">
+</Event><Event ErrorLevel="0" Project="SR" Source="frmFavorites.cs" Description="File successfully backed up as C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\Backup\frmFavorites.cs">
+</Event><Event ErrorLevel="0" Project="SR" Source="frmMain.cs" Description="File successfully backed up as C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\Backup\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="SR" Source="frmProfileChange.cs" Description="File successfully backed up as C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\Backup\frmProfileChange.cs">
+</Event><Event ErrorLevel="0" Project="SR" Source="App.ico" Description="File successfully backed up as C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="SR" Source="pic1.jpg" Description="File successfully backed up as C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\Backup\pic1.jpg">
+</Event><Event ErrorLevel="0" Project="SR" Source="ReadMe.txt" Description="File successfully backed up as C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\Backup\ReadMe.txt">
+</Event><Event ErrorLevel="0" Project="SR" Source="XMLAbout.xml" Description="File successfully backed up as C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\Backup\XMLAbout.xml">
+</Event><Event ErrorLevel="0" Project="SR" Source="XMLActivate.xml" Description="File successfully backed up as C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\Backup\XMLActivate.xml">
+</Event><Event ErrorLevel="0" Project="SR" Source="XMLAlphabeticState.xml" Description="File successfully backed up as C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\Backup\XMLAlphabeticState.xml">
+</Event><Event ErrorLevel="0" Project="SR" Source="XMLCommands.xml" Description="File successfully backed up as C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\Backup\XMLCommands.xml">
+</Event><Event ErrorLevel="0" Project="SR" Source="XMLDeactivate.xml" Description="File successfully backed up as C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\Backup\XMLDeactivate.xml">
+</Event><Event ErrorLevel="0" Project="SR" Source="XMLFavorites.xml" Description="File successfully backed up as C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\Backup\XMLFavorites.xml">
+</Event><Event ErrorLevel="0" Project="SR" Source="XMLNumericState.xml" Description="File successfully backed up as C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\Backup\XMLNumericState.xml">
+</Event><Event ErrorLevel="0" Project="SR" Source="XMLShutDown.xml" Description="File successfully backed up as C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\Backup\XMLShutDown.xml">
+</Event><Event ErrorLevel="0" Project="SR" Source="XMLStart.xml" Description="File successfully backed up as C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\Backup\XMLStart.xml">
+</Event><Event ErrorLevel="0" Project="SR" Source="XMLStickyKeys.xml" Description="File successfully backed up as C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\Backup\XMLStickyKeys.xml">
+</Event><Event ErrorLevel="0" Project="SR" Source="XMLSwitchProgram.xml" Description="File successfully backed up as C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\Backup\XMLSwitchProgram.xml">
+</Event><Event ErrorLevel="0" Project="SR" Source="frmAbout.resx" Description="File successfully backed up as C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\Backup\frmAbout.resx">
+</Event><Event ErrorLevel="0" Project="SR" Source="frmAccuracyChange.resx" Description="File successfully backed up as C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\Backup\frmAccuracyChange.resx">
+</Event><Event ErrorLevel="0" Project="SR" Source="frmAddFavorites.resx" Description="File successfully backed up as C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\Backup\frmAddFavorites.resx">
+</Event><Event ErrorLevel="0" Project="SR" Source="frmCommands.resx" Description="File successfully backed up as C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\Backup\frmCommands.resx">
+</Event><Event ErrorLevel="0" Project="SR" Source="frmFavorites.resx" Description="File successfully backed up as C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\Backup\frmFavorites.resx">
+</Event><Event ErrorLevel="0" Project="SR" Source="frmMain.resx" Description="File successfully backed up as C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\Backup\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="SR" Source="frmProfileChange.resx" Description="File successfully backed up as C:\Documents and Settings\Shiva\My Documents\Downloads\SR_src\Backup\frmProfileChange.resx">
+</Event><Event ErrorLevel="0" Project="SR" Source="SR.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SR" Source="SR.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SR.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SR.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SR" Source="SR.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

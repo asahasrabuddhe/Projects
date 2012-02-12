@@ -1,0 +1,30 @@
+lxi b,1234
+lxi d,5678
+lxi h,9abc
+mov a,b
+xri de
+mov c,a
+mov a,d
+xri f0
+mov e,a
+mov a,h
+rrc
+out 00
+rrc
+out 01
+mov l,a
+rlc
+rlc
+push psw
+push b
+push d
+push h
+in 00
+ani aa
+pop psw
+pop b
+pop d
+pop h
+in 01
+ori aa
+hlt

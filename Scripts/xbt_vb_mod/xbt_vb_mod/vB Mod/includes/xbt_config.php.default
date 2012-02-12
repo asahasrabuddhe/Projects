@@ -1,0 +1,10 @@
+<?php
+	// $xbt_config['announce_url'] = 'http://localhost:2710/announce';
+	$xbt_config['attachment_download_banner'] = false;
+	$xbt_config['torrent_pass_tracking'] = true;
+
+	if (!isset($xbt_config['announce_url']))
+	{
+		$v = parse_url($vbulletin->options['bburl']);
+		$xbt_config['announce_url'] = sprintf('http://%s:2710/announce', $v['host']);
+	}

@@ -1,0 +1,103 @@
+[Root]
+Most Recent Package=NetMan Server Setup
+
+
+[Package|NetMan Server Setup|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Program Files\Microsoft Visual Studio\Programs\NetMan\NetMan Final\Setup Files\Server
+
+[Package|NetMan Server Setup|Configure DAO ISAMs]
+Applicable=No
+
+[Package|NetMan Server Setup|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|NetMan Server Setup|Files Found]
+
+[Package|NetMan Server Setup|Files Released]
+
+[Package|NetMan Server Setup|Missing Dependency Information]
+C:\Program Files\Microsoft Office\Office10\1033\MSOLANG.DLL=
+C:\WINDOWS\system32\MSOLANG.DLL=
+
+[Package|NetMan Server Setup|Out-of-Date Dependency Information]
+
+[Package|NetMan Server Setup|Files Added]
+C:\Program Files\Microsoft Visual Studio\Programs\NetMan\NetMan Final\Development Files\Server\Executables\Server.exe.manifest=
+
+[Package|NetMan Server Setup|Files Removed]
+
+[Package|NetMan Server Setup|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\MSWINSCK.OCX=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\Programs\NetMan\NetMan Final\Development Files\Server\Executables\Server.exe=Yes
+C:\WINDOWS\system32\MSOLANG.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\Programs\NetMan\NetMan Final\Development Files\Server\Executables\Server.exe.manifest=Yes
+
+[Package|NetMan Server Setup|Configure Registry Files]
+Applicable=No
+
+[Package|NetMan Server Setup|Configure Remote Servers]
+Applicable=No
+
+[Package|NetMan Server Setup|Install Locations]
+C:\Program Files\Microsoft Visual Studio\Programs\NetMan\NetMan Final\Server\Executables\Server.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSWINSCK.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office10\1033\MSOLANG.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Program Files\Microsoft Visual Studio\Programs\NetMan\NetMan Final\Development Files\Server\Executables\Server.exe=$(AppPath)
+C:\WINDOWS\system32\MSOLANG.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\Programs\NetMan\NetMan Final\Development Files\Server\Executables\Server.exe.manifest=$(AppPath)
+
+[Package|NetMan Server Setup|Configure Shared Files]
+Applicable=Yes
+C:\Program Files\Microsoft Visual Studio\Programs\NetMan\NetMan Final\Server\Executables\Server.exe=No
+C:\Program Files\Microsoft Visual Studio\Programs\NetMan\NetMan Final\Development Files\Server\Executables\Server.exe=No
+C:\Program Files\Microsoft Visual Studio\Programs\NetMan\NetMan Final\Development Files\Server\Executables\Server.exe.manifest=No
+
+[Package|NetMan Server Setup|Distribution]
+Type=single
+Size=
+Title=Jamesosoft NetMan Server
+
+[Package|NetMan Server Setup|IconGroups]
+Group0=Network Control
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|NetMan Server Setup|Network Control]
+Icon1=Server.exe
+Title1=NetMan Server
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|NetMan Server Setup|Package]
+PackageFolder=C:\Program Files\Microsoft Visual Studio\Programs\NetMan\NetMan Final\Setup Files\Server
+ProjectFolder=C:\Program Files\Microsoft Visual Studio\Programs\NetMan\NetMan Final\Development Files\Server
+ServerSideCab=
+File1=C:\Program Files\Microsoft Visual Studio\Programs\NetMan\NetMan Final\Setup Files\Server\setup.exe
+File2=C:\Program Files\Microsoft Visual Studio\Programs\NetMan\NetMan Final\Setup Files\Server\Setup.Lst
+File3=C:\Program Files\Microsoft Visual Studio\Programs\NetMan\NetMan Final\Setup Files\Server\Server.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

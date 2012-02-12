@@ -1,0 +1,7 @@
+Title: Sniffer.NET now Plugins Supported (Latest by 17th February 2006)
+Description: Another update of two times award winning product. now supports plugins. You can create your own custom plugins from the sample plugin.the plugin manager is very powerful and generic. it automatically loads all available plugins from "Plugins" directory. a single dll can contain more than one plugin. its a must see and please vote for it.
+Thanks for all your support for making it a real success but as we are very much busy in our closed source projects we count not get enough time to update this Open Source Project and need a community to help and enhance it to become more of a product rather being just being a program. you can visit our website ie www.v2softwares.com to download the latest code and binaries for both versions of framework 1.1 and 2.0. we need the help of people who can actually part in the development of it and actively provide updates to it and we will make sure they would get enough recognision through our website and in credits section of the program.
+This file came from Planet-Source-Code.com...the home millions of lines of source code
+You can view comments on this code/and or vote on it at: http://www.Planet-Source-Code.com/vb/scripts/ShowCode.asp?txtCodeId=4519&lngWId=10
+
+The author may have retained certain copyrights to this code...please observe their request and the law by reviewing all copyright conditions at the above URL.

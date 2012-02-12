@@ -1,0 +1,11 @@
+7000           LXI H, 6000H     21
+7001                        00
+7002                        60
+7003           MOV A, M     7E
+7004           STC     37
+7005           CMC     3F
+7006           RAR     1F
+7007           XRA M     AE
+7008           INX H     23
+7009           MOV M, A     77
+700A           RST 1     CF

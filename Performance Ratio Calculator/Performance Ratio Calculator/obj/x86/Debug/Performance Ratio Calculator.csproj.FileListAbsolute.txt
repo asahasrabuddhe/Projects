@@ -1,0 +1,10 @@
+C:\Users\Ajitem Sahasrabuddhe.bZk-PC\Documents\Visual Studio 2010\Projects\Performance Ratio Calculator\Performance Ratio Calculator\bin\Debug\Performance Ratio Calculator.exe.config
+C:\Users\Ajitem Sahasrabuddhe.bZk-PC\Documents\Visual Studio 2010\Projects\Performance Ratio Calculator\Performance Ratio Calculator\bin\Debug\Performance Ratio Calculator.exe
+C:\Users\Ajitem Sahasrabuddhe.bZk-PC\Documents\Visual Studio 2010\Projects\Performance Ratio Calculator\Performance Ratio Calculator\bin\Debug\Performance Ratio Calculator.pdb
+C:\Users\Ajitem Sahasrabuddhe.bZk-PC\Documents\Visual Studio 2010\Projects\Performance Ratio Calculator\Performance Ratio Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ajitem Sahasrabuddhe.bZk-PC\Documents\Visual Studio 2010\Projects\Performance Ratio Calculator\Performance Ratio Calculator\obj\x86\Debug\Performance_Ratio_Calculator.Form1.resources
+C:\Users\Ajitem Sahasrabuddhe.bZk-PC\Documents\Visual Studio 2010\Projects\Performance Ratio Calculator\Performance Ratio Calculator\obj\x86\Debug\Performance_Ratio_Calculator.Properties.Resources.resources
+C:\Users\Ajitem Sahasrabuddhe.bZk-PC\Documents\Visual Studio 2010\Projects\Performance Ratio Calculator\Performance Ratio Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ajitem Sahasrabuddhe.bZk-PC\Documents\Visual Studio 2010\Projects\Performance Ratio Calculator\Performance Ratio Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ajitem Sahasrabuddhe.bZk-PC\Documents\Visual Studio 2010\Projects\Performance Ratio Calculator\Performance Ratio Calculator\obj\x86\Debug\Performance Ratio Calculator.exe
+C:\Users\Ajitem Sahasrabuddhe.bZk-PC\Documents\Visual Studio 2010\Projects\Performance Ratio Calculator\Performance Ratio Calculator\obj\x86\Debug\Performance Ratio Calculator.pdb

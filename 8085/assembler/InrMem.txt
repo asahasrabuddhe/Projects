@@ -1,0 +1,6 @@
+Start:	LXI H, 200AH ;Load the HL pair
+	MVI C, 05H ;Load C with value
+UP:	INR M
+	DCR C
+	JNZ UP
+	HLT	

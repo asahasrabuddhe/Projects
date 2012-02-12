@@ -1,0 +1,23 @@
+<!--This file is changing dynamically by the application-->
+d<GRAMMAR LANGID="409">
+  <DEFINE>
+    <ID NAME="RID_CloseFavorites" VAL="0" />
+    <ID NAME="RID_RunProgram" VAL="1" />
+  </DEFINE>
+  <RULE NAME="CloseFavorites" ID="RID_CloseFavorites" TOPLEVEL="ACTIVE">
+    <L>
+      <P WEIGHT=".05">close</P>
+      <P WEIGHT=".05">hide</P>
+    </L>
+  </RULE>
+  <RULE NAME="RunProgram" ID="RID_RunProgram" TOPLEVEL="ACTIVE">
+    <L>
+      <P DISP="winword">word</P>
+      <P DISP="excel">excel</P>
+      <P DISP="notepad">notepad</P>
+      <P DISP="calc">calculator</P>
+      <P DISP="freecell">free cell</P>
+      <P DISP="IEXPLORE">internet explorer</P>
+    </L>
+  </RULE>
+</GRAMMAR>

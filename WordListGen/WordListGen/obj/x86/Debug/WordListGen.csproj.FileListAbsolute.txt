@@ -1,0 +1,5 @@
+C:\Users\bZk\Documents\Visual Studio 2010\Projects\WordListGen\WordListGen\bin\Debug\WordListGen.exe
+C:\Users\bZk\Documents\Visual Studio 2010\Projects\WordListGen\WordListGen\bin\Debug\WordListGen.pdb
+C:\Users\bZk\Documents\Visual Studio 2010\Projects\WordListGen\WordListGen\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bZk\Documents\Visual Studio 2010\Projects\WordListGen\WordListGen\obj\x86\Debug\WordListGen.exe
+C:\Users\bZk\Documents\Visual Studio 2010\Projects\WordListGen\WordListGen\obj\x86\Debug\WordListGen.pdb

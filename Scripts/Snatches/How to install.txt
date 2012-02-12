@@ -1,0 +1,68 @@
+"X Snatches in Y Releases" Modification Installation Guide
+
+
+
+1.Login to phpMyAdmin and import the snatches.sql file supplied with the zip package.
+
+
+
+2.Open the file /includes/xbt_functions.php
+	
+	
+	Find 	
+	
+	db_query(sprintf("delete xbt_users from xbt_users left join %suser on uid = userid where userid is null", TABLE_PREFIX));
+
+	Under that insert the following lines
+
+	
+	db_query(sprintf("update %suser inner join (select userid, ifnull(sum(attachment.bt_completed), 0) c from %sattachment inner join %suser using (userid) group  by userid) t using (userid) set bt_completed = c",TABLE_PREFIX, TABLE_PREFIX, TABLE_PREFIX));
+			
+	db_query(sprintf("update %suser inner join (select userid, ifnull(count(attachment.userid), 0) b from %sattachment inner join %suser using (userid) group  by userid) s using (userid) set bt_releases= b",TABLE_PREFIX, TABLE_PREFIX, TABLE_PREFIX));
+
+
+
+3. Now scroll down to the end of the file, and locate this
+
+		function xbt_userdata_start($dm)
+	
+		{
+
+			$dm->validfields['bt_uploaded'] = array(TYPE_STR, REQ_NO);
+
+			$dm->validfields['bt_downloaded'] = array(TYPE_STR, REQ_NO);
+	
+	}
+	
+	
+
+	Add two more lines to the function to make it look like this
+		
+
+		function xbt_userdata_start($dm)
+	
+		{
+		
+			$dm->validfields['bt_uploaded'] = array(TYPE_STR, REQ_NO);
+		
+			$dm->validfields['bt_downloaded'] = array(TYPE_STR, REQ_NO);
+		
+			$dm->validfields['bt_completed'] = array(TYPE_STR, REQ_NO);
+		
+			$dm->validfields['bt_releases'] = array(TYPE_STR, REQ_NO);
+	
+		}
+
+
+
+4. After you done with this, save the file xbt_functions.php and re-upload to the server.
+
+
+
+5. Open the template postbit or postbit_legacy (depending on the setting chosen in vBulletin Options) of your current style.
+	There, add to suitable location
+		I have $post[bt_completed] snatches in $[bt_releases] Torrents
+
+6. Save the template. The result will be shown with the next cron update. If you are in a hurry to view the result, manually execute the cron by typing URL/xbt_cron.php
+
+

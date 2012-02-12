@@ -1,0 +1,13 @@
+C:\Users\Ajitem Sahasrabuddhe.bZk-PC\Documents\Visual Studio 2010\Projects\Performance Ratio Calculator\Performance Ratio Calculator\bin\Release\Performance Ratio Calculator.exe.config
+C:\Users\Ajitem Sahasrabuddhe.bZk-PC\Documents\Visual Studio 2010\Projects\Performance Ratio Calculator\Performance Ratio Calculator\bin\Release\Performance Ratio Calculator.exe
+C:\Users\Ajitem Sahasrabuddhe.bZk-PC\Documents\Visual Studio 2010\Projects\Performance Ratio Calculator\Performance Ratio Calculator\bin\Release\Performance Ratio Calculator.pdb
+C:\Users\Ajitem Sahasrabuddhe.bZk-PC\Documents\Visual Studio 2010\Projects\Performance Ratio Calculator\Performance Ratio Calculator\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Ajitem Sahasrabuddhe.bZk-PC\Documents\Visual Studio 2010\Projects\Performance Ratio Calculator\Performance Ratio Calculator\obj\x86\Release\Performance_Ratio_Calculator.Form1.resources
+C:\Users\Ajitem Sahasrabuddhe.bZk-PC\Documents\Visual Studio 2010\Projects\Performance Ratio Calculator\Performance Ratio Calculator\obj\x86\Release\Performance_Ratio_Calculator.Properties.Resources.resources
+C:\Users\Ajitem Sahasrabuddhe.bZk-PC\Documents\Visual Studio 2010\Projects\Performance Ratio Calculator\Performance Ratio Calculator\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Ajitem Sahasrabuddhe.bZk-PC\Documents\Visual Studio 2010\Projects\Performance Ratio Calculator\Performance Ratio Calculator\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Ajitem Sahasrabuddhe.bZk-PC\Documents\Visual Studio 2010\Projects\Performance Ratio Calculator\Performance Ratio Calculator\obj\x86\Release\Performance Ratio Calculator.exe
+C:\Users\Ajitem Sahasrabuddhe.bZk-PC\Documents\Visual Studio 2010\Projects\Performance Ratio Calculator\Performance Ratio Calculator\obj\x86\Release\Performance Ratio Calculator.pdb
+J:\Softwares\Projects\Performance Ratio Calculator\Performance Ratio Calculator\bin\Release\Performance Ratio Calculator.exe.config
+J:\Softwares\Projects\Performance Ratio Calculator\Performance Ratio Calculator\obj\x86\Release\Performance Ratio Calculator.exe
+J:\Softwares\Projects\Performance Ratio Calculator\Performance Ratio Calculator\obj\x86\Release\Performance Ratio Calculator.pdb

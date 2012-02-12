@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SR">
+</Property><Property Name="Solution File" Value="C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\SR.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\SR.suo">
+</Property><Property Name="Date" Value="01 October 2011">
+</Property><Property Name="Time" Value="22:15">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SR.sln" Description="File successfully backed up as C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\Backup\SR.sln">
+</Event><Event ErrorLevel="0" Project="" Source="SR.suo" Description="File successfully backed up as C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\Backup\SR.suo">
+</Event><Event ErrorLevel="0" Project="SR" Source="SR.csproj" Description="Project file successfully backed up as C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\Backup\SR.csproj">
+</Event><Event ErrorLevel="0" Project="SR" Source="SR.csproj.user" Description="Project user file successfully backed up as C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\Backup\SR.csproj.user">
+</Event><Event ErrorLevel="0" Project="SR" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SR" Source="frmAbout.cs" Description="File successfully backed up as C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\Backup\frmAbout.cs">
+</Event><Event ErrorLevel="0" Project="SR" Source="frmAccuracyChange.cs" Description="File successfully backed up as C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\Backup\frmAccuracyChange.cs">
+</Event><Event ErrorLevel="0" Project="SR" Source="frmAddFavorites.cs" Description="File successfully backed up as C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\Backup\frmAddFavorites.cs">
+</Event><Event ErrorLevel="0" Project="SR" Source="frmCommands.cs" Description="File successfully backed up as C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\Backup\frmCommands.cs">
+</Event><Event ErrorLevel="0" Project="SR" Source="frmFavorites.cs" Description="File successfully backed up as C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\Backup\frmFavorites.cs">
+</Event><Event ErrorLevel="0" Project="SR" Source="frmMain.cs" Description="File successfully backed up as C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\Backup\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="SR" Source="frmProfileChange.cs" Description="File successfully backed up as C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\Backup\frmProfileChange.cs">
+</Event><Event ErrorLevel="0" Project="SR" Source="App.ico" Description="File successfully backed up as C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="SR" Source="pic1.jpg" Description="File successfully backed up as C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\Backup\pic1.jpg">
+</Event><Event ErrorLevel="0" Project="SR" Source="ReadMe.txt" Description="File successfully backed up as C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\Backup\ReadMe.txt">
+</Event><Event ErrorLevel="0" Project="SR" Source="XMLAbout.xml" Description="File successfully backed up as C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\Backup\XMLAbout.xml">
+</Event><Event ErrorLevel="0" Project="SR" Source="XMLActivate.xml" Description="File successfully backed up as C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\Backup\XMLActivate.xml">
+</Event><Event ErrorLevel="0" Project="SR" Source="XMLAlphabeticState.xml" Description="File successfully backed up as C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\Backup\XMLAlphabeticState.xml">
+</Event><Event ErrorLevel="0" Project="SR" Source="XMLCommands.xml" Description="File successfully backed up as C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\Backup\XMLCommands.xml">
+</Event><Event ErrorLevel="0" Project="SR" Source="XMLDeactivate.xml" Description="File successfully backed up as C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\Backup\XMLDeactivate.xml">
+</Event><Event ErrorLevel="0" Project="SR" Source="XMLFavorites.xml" Description="File successfully backed up as C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\Backup\XMLFavorites.xml">
+</Event><Event ErrorLevel="0" Project="SR" Source="XMLNumericState.xml" Description="File successfully backed up as C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\Backup\XMLNumericState.xml">
+</Event><Event ErrorLevel="0" Project="SR" Source="XMLShutDown.xml" Description="File successfully backed up as C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\Backup\XMLShutDown.xml">
+</Event><Event ErrorLevel="0" Project="SR" Source="XMLStart.xml" Description="File successfully backed up as C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\Backup\XMLStart.xml">
+</Event><Event ErrorLevel="0" Project="SR" Source="XMLStickyKeys.xml" Description="File successfully backed up as C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\Backup\XMLStickyKeys.xml">
+</Event><Event ErrorLevel="0" Project="SR" Source="XMLSwitchProgram.xml" Description="File successfully backed up as C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\Backup\XMLSwitchProgram.xml">
+</Event><Event ErrorLevel="0" Project="SR" Source="frmAbout.resx" Description="File successfully backed up as C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\Backup\frmAbout.resx">
+</Event><Event ErrorLevel="0" Project="SR" Source="frmAccuracyChange.resx" Description="File successfully backed up as C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\Backup\frmAccuracyChange.resx">
+</Event><Event ErrorLevel="0" Project="SR" Source="frmAddFavorites.resx" Description="File successfully backed up as C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\Backup\frmAddFavorites.resx">
+</Event><Event ErrorLevel="0" Project="SR" Source="frmCommands.resx" Description="File successfully backed up as C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\Backup\frmCommands.resx">
+</Event><Event ErrorLevel="0" Project="SR" Source="frmFavorites.resx" Description="File successfully backed up as C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\Backup\frmFavorites.resx">
+</Event><Event ErrorLevel="0" Project="SR" Source="frmMain.resx" Description="File successfully backed up as C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\Backup\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="SR" Source="frmProfileChange.resx" Description="File successfully backed up as C:\Users\Ajitem Sahasrabuddhe\Documents\Visual Studio 2010\Projects\VCPC 2011\Backup\frmProfileChange.resx">
+</Event><Event ErrorLevel="1" Project="SR" Source="SR.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="SR" Source="SR.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SR" Source="SR.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SR.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SR.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SR" Source="SR.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,11 @@
+C:\Users\bZk\Documents\Downloads\Compressed\CodeTextBoxSample\CodeTextBoxSample\CodeTextBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bZk\Documents\Downloads\Compressed\CodeTextBoxSample\CodeTextBoxSample\CodeTextBox\obj\Debug\CodeTextBox.Resource.resources
+C:\Users\bZk\Documents\Downloads\Compressed\CodeTextBoxSample\CodeTextBoxSample\CodeTextBox\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\bZk\Documents\Downloads\Compressed\CodeTextBoxSample\CodeTextBoxSample\CodeTextBox\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\bZk\Documents\Downloads\Compressed\CodeTextBoxSample\CodeTextBoxSample\CodeTextBox\bin\Debug\CodeTextBox.dll
+C:\Users\bZk\Documents\Downloads\Compressed\CodeTextBoxSample\CodeTextBoxSample\CodeTextBox\bin\Debug\CodeTextBox.pdb
+C:\Users\bZk\Documents\Downloads\Compressed\CodeTextBoxSample\CodeTextBoxSample\CodeTextBox\obj\Debug\CodeTextBox.dll
+C:\Users\bZk\Documents\Downloads\Compressed\CodeTextBoxSample\CodeTextBoxSample\CodeTextBox\obj\Debug\CodeTextBox.pdb
+I:\vbAssignment\CodeTextBox\CodeTextBox\obj\Debug\ResolveAssemblyReference.cache
+I:\vbAssignment\CodeTextBox\CodeTextBox\obj\Debug\CodeTextBox.dll
+I:\vbAssignment\CodeTextBox\CodeTextBox\obj\Debug\CodeTextBox.pdb

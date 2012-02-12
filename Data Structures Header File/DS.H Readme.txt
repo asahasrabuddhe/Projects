@@ -1,0 +1,42 @@
+int compare(node *s1,node *s2)
+	Compares two linked lists and returns 1 if they are same; else returns 0.
+
+node *copy(node *s)
+	Generates a copy of the specified linked list and returns the address of the copy.
+
+node *count(node *s)
+	Counts the number of nodes in the given linked list and returns the count.
+
+node * createlist()
+	Creates a new linked list and returns the address of the first node.
+
+void display(node *s)
+	Displays contents of all the nodes of the specified linked list.
+
+int delete(node **s, int n)
+	Deletes the given number from the specified list. Returns 1 after a successful deletion otherwise returns 0.
+
+node * insert(node *s, int n, int p)
+	Inserts a given number at a specific position in the specified linked list. If the position specified is greater than nodes present, the number is inserted
+	at the end of the list.
+
+node * insertatend(node *s, int n)
+	Inserts a given number at the end of the specified linked list.
+
+void join(node *s1,node *s2)
+	Appends the first list with the second one.
+
+int largest(node *s)
+	Finds the largest number from the given list and returns it.
+	
+node *reverse(node *s)
+	Reverses the specified linked list.	
+
+int search(node *s, int n)
+	Searches the specified list for the given number.
+
+void sort(node *s)
+	Sorts the speficied linked list in the ascending order.
+
+int sum(node *s)
+	Finds sum of all elements in a linked list and returns it.

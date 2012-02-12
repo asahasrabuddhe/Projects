@@ -1,0 +1,11 @@
+C:\Users\bZk\Documents\Downloads\Compressed\CodeTextBoxSample\CodeTextBoxSample\CodeTextBoxSample\bin\Debug\CodeTextBoxSample.exe
+C:\Users\bZk\Documents\Downloads\Compressed\CodeTextBoxSample\CodeTextBoxSample\CodeTextBoxSample\bin\Debug\CodeTextBoxSample.pdb
+C:\Users\bZk\Documents\Downloads\Compressed\CodeTextBoxSample\CodeTextBoxSample\CodeTextBoxSample\bin\Debug\CodeTextBox.dll
+C:\Users\bZk\Documents\Downloads\Compressed\CodeTextBoxSample\CodeTextBoxSample\CodeTextBoxSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bZk\Documents\Downloads\Compressed\CodeTextBoxSample\CodeTextBoxSample\CodeTextBoxSample\obj\Debug\CodeTextBoxSample.Form1.resources
+C:\Users\bZk\Documents\Downloads\Compressed\CodeTextBoxSample\CodeTextBoxSample\CodeTextBoxSample\obj\Debug\CodeTextBoxSample.Properties.Resources.resources
+C:\Users\bZk\Documents\Downloads\Compressed\CodeTextBoxSample\CodeTextBoxSample\CodeTextBoxSample\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\bZk\Documents\Downloads\Compressed\CodeTextBoxSample\CodeTextBoxSample\CodeTextBoxSample\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\bZk\Documents\Downloads\Compressed\CodeTextBoxSample\CodeTextBoxSample\CodeTextBoxSample\obj\Debug\CodeTextBoxSample.exe
+C:\Users\bZk\Documents\Downloads\Compressed\CodeTextBoxSample\CodeTextBoxSample\CodeTextBoxSample\obj\Debug\CodeTextBoxSample.pdb
+C:\Users\bZk\Documents\Downloads\Compressed\CodeTextBoxSample\CodeTextBoxSample\CodeTextBoxSample\bin\Debug\CodeTextBox.pdb

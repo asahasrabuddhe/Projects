@@ -1,0 +1,16 @@
+﻿<GRAMMAR LANGID="409">
+	<DEFINE>
+		<ID NAME="RID_CloseAbout" VAL="0"></ID>
+		<ID NAME="RID_ShowCommands" VAL="300"></ID>
+	</DEFINE>
+
+	<RULE NAME="CloseAbout" ID="RID_CloseAbout" TOPLEVEL="ACTIVE">
+		<L>
+			<P>close</P>
+			<P>hide</P>
+		</L>
+	</RULE>
+	<RULE NAME="ShowCommands" ID="RID_ShowCommands" TOPLEVEL="ACTIVE">
+		<P>commands list</P>
+	</RULE>
+</GRAMMAR>

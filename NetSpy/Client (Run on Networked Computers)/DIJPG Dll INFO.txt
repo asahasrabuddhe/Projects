@@ -1,0 +1,5 @@
+Developed by DISOFT (www.disoft.com/about.htm)
+
+DIjpg.dll must be installed to the "windows\system32" directory
+
+You can download the source code or the compiled DLL at: "www.disoft.com"

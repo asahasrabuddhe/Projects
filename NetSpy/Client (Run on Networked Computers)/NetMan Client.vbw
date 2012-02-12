@@ -1,0 +1,10 @@
+mod_getdsysdata = -9, -5, 686, 607, C
+mod_commands = -185, 47, 510, 659, 
+frm_client = 4, 61, 707, 673, C, 22, 29, 517, 641, CI
+frm_message = 33, 63, 730, 675, C, 44, 58, 539, 670, C
+frm_freeze = -268, 165, 544, 777, C, -115, -8, 446, 604, C
+mod_lockXP = 0, 0, 759, 612, CI
+frm_information = -164, 152, 529, 719, C, 198, 261, 891, 828, C
+frm_inputmessage = -152, 61, 544, 628, C, -371, 194, 325, 761, C
+mod_lowlevelhook = -88, 37, 674, 604, 
+mod_screencapture = -8, 1, 754, 566, Z

@@ -1,0 +1,8 @@
+mvi a,03
+mvi b,05
+add b
+mov c,a
+push b
+pop d
+xchg
+hlt

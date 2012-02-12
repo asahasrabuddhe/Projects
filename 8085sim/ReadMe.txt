@@ -1,0 +1,1 @@
+Run the 8085Sim.jar file present in the dist folder.

@@ -1,0 +1,103 @@
+p<GRAMMAR LANGID="409">
+	<DEFINE>
+		<ID NAME="RID_ExitNumericState" VAL="100"></ID>
+		<ID NAME="RID_Enter" VAL="200"></ID>
+		<ID NAME="RID_PureEscape" VAL="201"></ID>
+		<ID NAME="RID_BackSpace" VAL="101"></ID>
+		<ID NAME="RID_Plus" VAL="102"></ID>
+		<ID NAME="RID_Minus" VAL="103"></ID>
+		<ID NAME="RID_Mul" VAL="104"></ID>
+		<ID NAME="RID_Div" VAL="105"></ID>
+		<ID NAME="RID_Equal" VAL="106"></ID>
+
+		<ID NAME="RID_Zero" VAL="0"></ID>
+		<ID NAME="RID_One" VAL="1"></ID>
+		<ID NAME="RID_Two" VAL="2"></ID>
+		<ID NAME="RID_Three" VAL="3"></ID>
+		<ID NAME="RID_Four" VAL="4"></ID>
+		<ID NAME="RID_Five" VAL="5"></ID>
+		<ID NAME="RID_Six" VAL="6"></ID>
+		<ID NAME="RID_Seven" VAL="7"></ID>
+		<ID NAME="RID_Eight" VAL="8"></ID>
+		<ID NAME="RID_Nine" VAL="9"></ID>
+
+		<ID NAME="RID_ShowCommands" VAL="300"></ID>
+	</DEFINE>
+
+	<RULE NAME="ActivateWithoutAnimation" ID="RID_ExitNumericState" TOPLEVEL="ACTIVE">
+		<P>exit numeric state</P>
+	</RULE>
+	<RULE NAME="Enter" ID="RID_Enter" TOPLEVEL="ACTIVE">
+		<L>
+			<P>enter</P>
+			<P>O K</P>
+		</L>
+	</RULE>
+	<RULE NAME="PureEscape" ID="RID_PureEscape" TOPLEVEL="ACTIVE">
+		<L>
+			<P>escape</P>
+			<P>cancel</P>
+		</L>
+	</RULE>
+	<RULE NAME="BackSpace" ID="RID_BackSpace" TOPLEVEL="ACTIVE">
+		<L>
+			<P>back</P>
+			<P>back space</P>
+		</L>
+	</RULE>
+	<RULE NAME="Plus" ID="RID_Plus" TOPLEVEL="ACTIVE">
+		<P>plus</P>
+	</RULE>
+	<RULE NAME="Minus" ID="RID_Minus" TOPLEVEL="ACTIVE">
+		<P>minus</P>
+	</RULE>
+	<RULE NAME="Mul" ID="RID_Mul" TOPLEVEL="ACTIVE">
+		<L>
+			<P>mul</P>
+			<P>multiply</P>
+		</L>
+	</RULE>
+	<RULE NAME="Div" ID="RID_Div" TOPLEVEL="ACTIVE">
+		<L>
+			<P>Div</P>
+			<P>divide</P>
+		</L>
+	</RULE>
+	<RULE NAME="Equal" ID="RID_Equal" TOPLEVEL="ACTIVE">
+		<P>Equal</P>
+	</RULE>
+	
+	<RULE NAME="Zero" ID="RID_Zero" TOPLEVEL="ACTIVE">
+		<P DISP="0">zero</P>
+	</RULE>
+	<RULE NAME="One" ID="RID_One" TOPLEVEL="ACTIVE">
+		<P DISP="1">one</P>
+	</RULE>
+	<RULE NAME="Two" ID="RID_Two" TOPLEVEL="ACTIVE">
+		<P DISP="2">two</P>
+	</RULE>
+	<RULE NAME="Three" ID="RID_Three" TOPLEVEL="ACTIVE">
+		<P DISP="3">three</P>
+	</RULE>
+	<RULE NAME="Four" ID="RID_Four" TOPLEVEL="ACTIVE">
+		<P DISP="4">four</P>
+	</RULE>
+	<RULE NAME="Five" ID="RID_Five" TOPLEVEL="ACTIVE">
+		<P DISP="5">five</P>
+	</RULE>
+	<RULE NAME="Six" ID="RID_Six" TOPLEVEL="ACTIVE">
+		<P DISP="6">six</P>
+	</RULE>
+	<RULE NAME="Seven" ID="RID_Seven" TOPLEVEL="ACTIVE">
+		<P DISP="7">seven</P>
+	</RULE>
+	<RULE NAME="Eight" ID="RID_Eight" TOPLEVEL="ACTIVE">
+		<P DISP="8">eight</P>
+	</RULE>
+	<RULE NAME="Nine" ID="RID_Nine" TOPLEVEL="ACTIVE">
+		<P DISP="9">nine</P>
+	</RULE>
+	<RULE NAME="ShowCommands" ID="RID_ShowCommands" TOPLEVEL="ACTIVE">
+		<P>commands list</P>
+	</RULE>
+</GRAMMAR>

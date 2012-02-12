@@ -1,0 +1,14 @@
+C:\Users\Ajitem Sahasrabuddhe\Downloads\Sniffer_NE1974202172006\PluginManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ajitem Sahasrabuddhe\Downloads\Sniffer_NE1974202172006\PluginManager\obj\Debug\PluginManager.pdb
+C:\Users\Ajitem Sahasrabuddhe\Downloads\Sniffer_NE1974202172006\Output\PluginManager.dll
+C:\Users\Ajitem Sahasrabuddhe\Downloads\Sniffer_NE1974202172006\Output\PluginManager.pdb
+C:\Users\Ajitem Sahasrabuddhe\Downloads\Sniffer_NE1974202172006\Output\PluginManager.xml
+C:\Users\Ajitem Sahasrabuddhe\Downloads\Sniffer_NE1974202172006\PluginManager\obj\Debug\PluginManager.dll
+C:\Users\Ajitem Sahasrabuddhe\Downloads\Sniffer_NE1974202172006\PluginManager\obj\Debug\PluginManager.xml
+F:\Softwares\Projects\Sniffer_NE1974202172006\Output\PluginManager.dll
+F:\Softwares\Projects\Sniffer_NE1974202172006\Output\PluginManager.pdb
+F:\Softwares\Projects\Sniffer_NE1974202172006\Output\PluginManager.xml
+F:\Softwares\Projects\Sniffer_NE1974202172006\PluginManager\obj\Debug\ResolveAssemblyReference.cache
+F:\Softwares\Projects\Sniffer_NE1974202172006\PluginManager\obj\Debug\PluginManager.dll
+F:\Softwares\Projects\Sniffer_NE1974202172006\PluginManager\obj\Debug\PluginManager.xml
+F:\Softwares\Projects\Sniffer_NE1974202172006\PluginManager\obj\Debug\PluginManager.pdb

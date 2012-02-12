@@ -1,0 +1,73 @@
+05/06/2010 - 06.53 AM
+8085 Assembler 1.0.0.0
+	Assembler Born - Translates 8085 Assembly Program read from Text File and Displays Hex-Code
+
+21/06/2010 - 3.28AM
+8085 Assembler 1.1.0.0
+	Major Bug Fixes - Fixed Error where the assembler does not translate CALL instructions.
+			- Fixed Error where the assembler ignored labels of single byte instructions without mnemonics
+			  and caused mistake whilst calculating address for JUMP/CALL instructions.
+			- Added Icon.
+
+29/07/2010 - 12.43 AM
+8085 Assembler 1.1.0.1
+	Minor GUI Changes - Fixed the size and scalablity of the Flex Grid. Adjusted the scroll bar. Modified properties of the 
+			    Form a better look.
+
+	Minor Bug Fixes	  - Added an option wherein the programs asks for the database file to the user when the database file is
+			    is not found in the local application folder.
+6/08/2010 - 10.56AM
+8085 Assembler 1.1.0.2
+	Minor GUI Changes - Introduced a Menu Bar
+			  - Date/Time display added to the footer of the program
+
+19/08/2010 - 10.19PM
+8085 Assembler 1.2.0.0
+	Major GUI Changes - Introduced a Bottom 'Information Panel' to show total bytes consumption and t-states used by the
+			    assembly program
+
+25/08/2010 - 11.21PM
+8085 Assembler 1.2.0.1
+	Minor Bug Fixes - Ironed out a few bugs that occured while calculating bytes consumption and t-states used.
+
+26/08/2010 - 2.34AM
+8085 Assembler 1.3.0.0
+	Major GUI Changes - Added Settings Panel
+			  - Added option for user to select starting address of the program
+			  - Added option for user to save the translated program to a text file
+
+04/09/2010 - 11.08PM
+8085 Assembler 1.4.0.0
+	Major Bug Fixes - Fixed Indenting Issues with the text file output by the program
+			- User now gets an error message if they input an invalid hexadecimal value as the starting address of
+			  the program
+
+04/09/2010 - 11.13PM
+8085 Assembler 1.4.0.1
+	Minor Bug Fixes - User now gets warning before replacing existing file while saving assembler output
+
+04/09/2010 - 11.17PM
+8085 Assembler 1.4.0.2
+	Minor GUI Changes - Added current version number to Form Title
+
+05/09/2010 - 1.40PM
+8085 Assembler 1.4.0.3
+	Minor GUI Changes - Updated some messageboxes shown upon exception occurances.
+			  - Furthur fine tuned the appearance of the form.
+
+24/06/2011 - 7.16AM
+8085 Assembler 1.4.0.3
+	Minor GUI Changes - Added About Box
+
+
+
+
+22/09/2010 - 6.22PM
+8085 Assembler 1.5.0.0 (Special Build) **
+	Major GUI Changes - Added Opcode Finder Module
+
+
+TO-DO List
+	Add ProgressBar while saving file
+	give user option to choose what columns he wants to save in the text file
+	

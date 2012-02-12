@@ -1,0 +1,18 @@
+c:\users\ajitem sahasrabuddhe\documents\visual studio 2010\Projects\Cost Calculator\Cost Calculator\bin\Debug\Cost Calculator.exe
+c:\users\ajitem sahasrabuddhe\documents\visual studio 2010\Projects\Cost Calculator\Cost Calculator\bin\Debug\Cost Calculator.pdb
+c:\users\ajitem sahasrabuddhe\documents\visual studio 2010\Projects\Cost Calculator\Cost Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ajitem sahasrabuddhe\documents\visual studio 2010\Projects\Cost Calculator\Cost Calculator\obj\x86\Debug\Cost_Calculator.CostCalculator.resources
+c:\users\ajitem sahasrabuddhe\documents\visual studio 2010\Projects\Cost Calculator\Cost Calculator\obj\x86\Debug\Cost_Calculator.Properties.Resources.resources
+c:\users\ajitem sahasrabuddhe\documents\visual studio 2010\Projects\Cost Calculator\Cost Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ajitem sahasrabuddhe\documents\visual studio 2010\Projects\Cost Calculator\Cost Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ajitem sahasrabuddhe\documents\visual studio 2010\Projects\Cost Calculator\Cost Calculator\obj\x86\Debug\Cost Calculator.exe
+c:\users\ajitem sahasrabuddhe\documents\visual studio 2010\Projects\Cost Calculator\Cost Calculator\obj\x86\Debug\Cost Calculator.pdb
+J:\Softwares\Backup\Visual Studio 2010\Projects\Cost Calculator\Cost Calculator\obj\x86\Debug\Cost Calculator.exe
+J:\Softwares\Backup\Visual Studio 2010\Projects\Cost Calculator\Cost Calculator\obj\x86\Debug\Cost Calculator.pdb
+J:\Softwares\Backup\Visual Studio 2010\Projects\Cost Calculator\Cost Calculator\bin\Debug\Cost Calculator.exe
+J:\Softwares\Backup\Visual Studio 2010\Projects\Cost Calculator\Cost Calculator\bin\Debug\Cost Calculator.pdb
+J:\Softwares\Backup\Visual Studio 2010\Projects\Cost Calculator\Cost Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Softwares\Backup\Visual Studio 2010\Projects\Cost Calculator\Cost Calculator\obj\x86\Debug\Cost_Calculator.CostCalculator.resources
+J:\Softwares\Backup\Visual Studio 2010\Projects\Cost Calculator\Cost Calculator\obj\x86\Debug\Cost_Calculator.Properties.Resources.resources
+J:\Softwares\Backup\Visual Studio 2010\Projects\Cost Calculator\Cost Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Softwares\Backup\Visual Studio 2010\Projects\Cost Calculator\Cost Calculator\obj\x86\Debug\GenerateResource.write.1.tlog

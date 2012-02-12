@@ -1,0 +1,14 @@
+frm_server = 88, 116, 562, 436, C, 66, 87, 540, 407, C
+frm_commands = 0, 0, 0, 0, C, 44, 58, 518, 378, C
+frm_childcapture = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frm_about = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frm_mdicaptures = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frm_falsemsgbox = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frm_keystrokes = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frm_newpassword = 0, 0, 0, 0, C, 0, 0, 400, 320, C
+frm_passcheck = 0, 0, 0, 0, C, 110, 145, 510, 465, C
+frm_useredit = 0, 0, 0, 0, C, 235, 73, 635, 393, C
+frm_users = 0, 0, 0, 0, C, 44, 58, 444, 378, C
+mod_login = 0, 0, 0, 0, C
+mod_main = 22, 29, 422, 349, Z
+frm_passwordscreen = 0, 0, 0, 0, C, 88, 116, 488, 436, C

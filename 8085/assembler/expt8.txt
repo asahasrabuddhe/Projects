@@ -1,0 +1,9 @@
+	LXI H,6000H
+	MOV A,M
+	STC
+	CMC
+	RAR
+	XRA M
+	INX H
+	MOV M,A
+	RST 1

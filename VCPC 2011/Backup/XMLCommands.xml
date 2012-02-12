@@ -1,0 +1,20 @@
+﻿<GRAMMAR LANGID="409">
+	<DEFINE>
+		<ID NAME="RID_CloseCommands" VAL="0"></ID>
+		<ID NAME="RID_PageUp" VAL="1"></ID>
+		<ID NAME="RID_PageDown" VAL="2"></ID>
+	</DEFINE>
+
+	<RULE NAME="CloseCommands" ID="RID_CloseCommands" TOPLEVEL="ACTIVE">
+		<L>
+			<P>close</P>
+			<P>hide</P>
+		</L>
+	</RULE>
+	<RULE NAME="PageUp" ID="RID_PageUp" TOPLEVEL="ACTIVE">
+		<P>Page up</P>
+	</RULE>
+	<RULE NAME="PageDown" ID="RID_PageDown" TOPLEVEL="ACTIVE">
+		<P>Page down</P>
+	</RULE>
+</GRAMMAR>

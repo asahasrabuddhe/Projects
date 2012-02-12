@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<product productid="xbt_vb4_mod" active="1">
+	<title>XBT vB Mod</title>
+	<description />
+	<version>0.0.0</version>
+	<url />
+	<versioncheckurl />
+	<dependencies>
+	</dependencies>
+	<codes>
+		<code version="0.0.0">
+			<installcode><![CDATA[require_once(DIR . '/includes/xbt_functions.php');
+xbt_install();]]></installcode>
+			<uninstallcode />
+		</code>
+	</codes>
+	<templates>
+		<template name="xbt_attachment_download_banner" templatetype="template" date="1167684594" username="xtf" version="0.0.0"><![CDATA[Uploaded: <span style="color: green">$user[uploaded]</span><br>
+Downloaded: <span style="color: blue">$user[downloaded]</span><br>
+Ratio: <if condition="$user[ratio] > 1"><span style="color: green"><else /><span style="color: red"></if>$user[ratio]</span><br>
+<br>
+<a href="?attachmentid=$attachmentinfo[attachmentid]&amp;step=">Download</a><br>]]></template>
+		<template name="xbt_css" templatetype="template" date="1144157305" username="xtf" version="0.0.0"><![CDATA[<style type="text/css">
+.member_seeders_value { color: green; }
+.member_leechers_value { color: blue; }
+.member_uploaded_value { color: green; }
+.member_downloaded_value { color: blue; }
+.member_size_value { color: blue; }
+.postbit_attachment_seeders_value { color: green; }
+.postbit_attachment_leechers_value { color: blue; }
+.postbit_attachment_completed_value { color: blue; }
+.postbit_attachment_users_name_value { color: blue; }
+.postbit_attachment_users_completed_value { color: blue; }
+.postbit_attachment_users_left_value { color: blue; }
+.postbit_attachment_users_uploaded_value { color: green; }
+.postbit_attachment_users_downloaded_value { color: blue; }
+.postbit_attachment_users_last_announce_value { color: blue; }
+.top_lists_posts_value { color: blue; }
+.top_lists_uploaded_value { color: green; }
+.top_lists_downloaded_value { color: blue; }
+.top_lists_ratio_value { color: blue; }
+.torrents_seeders_value { color: green; }
+.torrents_leechers_value { color: blue; }
+.torrents_completed_value { color: blue; }
+.torrents_size_value { color: blue; }
+.torrents_ctime_value { color: blue; }
+.tracker_stats_seeders_value { color: green; }
+.tracker_stats_leechers_value { color: blue; }
+.tracker_stats_peers_value { color: blue; }
+.tracker_stats_torrents_value { color: blue; }
+.tracker_stats_uploaded_value { color: green; }
+.tracker_stats_downloaded_value { color: blue; }
+.tracker_stats_ratio_value { color: blue; }
+</style>]]></template>
+	</templates>
+	<plugins>
+		<plugin active="1" executionorder="5">
+			<title>admin_usergroup_edit</title>
+			<hookname>admin_usergroup_edit</hookname>
+			<phpcode><![CDATA[require_once(DIR . '/includes/xbt_functions.php');
+xbt_admin_usergroup_edit();]]></phpcode>
+		</plugin>
+		<plugin active="1" executionorder="5">
+			<title>attachdata_delete</title>
+			<hookname>attachdata_delete</hookname>
+			<phpcode><![CDATA[require_once(DIR . '/includes/xbt_functions.php');
+xbt_attachdata_delete();]]></phpcode>
+		</plugin>
+		<plugin active="1" executionorder="5">
+			<title>attachdata_postsave</title>
+			<hookname>attachdata_postsave</hookname>
+			<phpcode><![CDATA[require_once(DIR . '/includes/xbt_functions.php');
+xbt_attachdata_postsave($this);]]></phpcode>
+		</plugin>
+		<plugin active="1" executionorder="5">
+			<title>attachment_display</title>
+			<hookname>attachment_display</hookname>
+			<phpcode><![CDATA[require_once(DIR . '/includes/xbt_functions.php');
+xbt_attachment_display();]]></phpcode>
+		</plugin>
+		<plugin active="1" executionorder="5">
+			<title>cache_templates</title>
+			<hookname>cache_templates</hookname>
+			<phpcode><![CDATA[require_once(DIR . '/includes/xbt_functions.php');
+xbt_cache_templates();]]></phpcode>
+		</plugin>
+		<plugin active="1" executionorder="5">
+			<title>forumadmin_edit_form</title>
+			<hookname>forumadmin_edit_form</hookname>
+			<phpcode><![CDATA[require_once(DIR . '/includes/xbt_functions.php');
+xbt_forumadmin_edit_form();]]></phpcode>
+		</plugin>
+		<plugin active="1" executionorder="5">
+			<title>forumdata_start</title>
+			<hookname>forumdata_start</hookname>
+			<phpcode><![CDATA[require_once(DIR . '/includes/xbt_functions.php');
+xbt_forumdata_start($this);]]></phpcode>
+		</plugin>
+		<plugin active="1" executionorder="5">
+			<title>forumdisplay_query</title>
+			<hookname>forumdisplay_query</hookname>
+			<phpcode><![CDATA[require_once(DIR . '/includes/xbt_functions.php');
+xbt_forumdisplay_query();]]></phpcode>
+		</plugin>
+		<plugin active="1" executionorder="5">
+			<title>forumhome_complete</title>
+			<hookname>forumhome_complete</hookname>
+			<phpcode><![CDATA[require_once(DIR . '/includes/xbt_functions.php');
+xbt_forumhome_complete();]]></phpcode>
+		</plugin>
+		<plugin active="1" executionorder="5">
+			<title>memberlist_bit</title>
+			<hookname>memberlist_bit</hookname>
+			<phpcode><![CDATA[require_once(DIR . '/includes/xbt_functions.php');
+xbt_memberlist_bit($userinfo);]]></phpcode>
+		</plugin>
+		<plugin active="1" executionorder="5">
+			<title>member_build_blocks_start</title>
+			<hookname>member_build_blocks_start</hookname>
+			<phpcode><![CDATA[require_once(DIR . '/includes/xbt_functions.php');
+
+class vB_ProfileBlock_xbt extends vB_ProfileBlock
+{
+	var $template_name = 'memberinfo_block_xbt';
+
+	function confirm_empty_wrap()
+	{
+		return false;
+	}
+
+	function confirm_display()
+	{
+		return true;
+	}
+
+	function prepare_output($id = '', $options = array())
+	{
+		xbt_member_complete($this->profile->userinfo, $this->block_data);
+	}
+}
+
+$blocklist['xbt'] = array
+(
+	'class' => 'xbt',
+	'title' => 'BitTorrent',
+	'hook_location' => 'profile_left_last'
+);]]></phpcode>
+		</plugin>
+		<plugin active="1" executionorder="5">
+			<title>parse_templates</title>
+			<hookname>parse_templates</hookname>
+			<phpcode><![CDATA[require_once(DIR . '/includes/xbt_functions.php');
+xbt_parse_templates();]]></phpcode>
+		</plugin>
+		<plugin active="1" executionorder="5">
+			<title>postbit_attachment</title>
+			<hookname>postbit_attachment</hookname>
+			<phpcode><![CDATA[require_once(DIR . '/includes/xbt_functions.php');
+xbt_postbit_attachment($attachment);]]></phpcode>
+		</plugin>
+		<plugin active="1" executionorder="5">
+			<title>postbit_display_complete</title>
+			<hookname>postbit_display_complete</hookname>
+			<phpcode><![CDATA[require_once(DIR . '/includes/xbt_functions.php');
+xbt_postbit_display_complete($post);]]></phpcode>
+		</plugin>
+		<plugin active="1" executionorder="5">
+			<title>showthread_query</title>
+			<hookname>showthread_query</hookname>
+			<phpcode><![CDATA[require_once(DIR . '/includes/xbt_functions.php');
+xbt_showthread_query();]]></phpcode>
+		</plugin>
+		<plugin active="1" executionorder="5">
+			<title>useradmin_edit_column1</title>
+			<hookname>useradmin_edit_column1</hookname>
+			<phpcode><![CDATA[require_once(DIR . '/includes/xbt_functions.php');
+xbt_useradmin_edit_column1();]]></phpcode>
+		</plugin>
+		<plugin active="1" executionorder="5">
+			<title>useradmin_update_save</title>
+			<hookname>useradmin_update_save</hookname>
+			<phpcode><![CDATA[require_once(DIR . '/includes/xbt_functions.php');
+xbt_useradmin_update_save();]]></phpcode>
+		</plugin>
+		<plugin active="1" executionorder="5">
+			<title>userdata_start</title>
+			<hookname>userdata_start</hookname>
+			<phpcode><![CDATA[require_once(DIR . '/includes/xbt_functions.php');
+xbt_userdata_start($this);]]></phpcode>
+		</plugin>
+	</plugins>
+	<phrases>
+	</phrases>
+	<options>
+	</options>
+	<helptopics>
+	</helptopics>
+	<cronentries>
+	</cronentries>
+	<faqentries>
+	</faqentries>
+</product>

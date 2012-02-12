@@ -1,0 +1,8 @@
+Install vB 3.7. Don't use a table prefix.
+Install XBT Tracker according to http://xbtt.sourceforge.net/tracker/, use the same database as vB.
+Execute xbt_tracker.sql if you haven't done so already (in phpMyAdmin).
+Execute xbt_vb_mod.sql (in phpMyAdmin).
+Upload the PHP files.
+Copy xbt_config.php.default to xbt_config.php and edit it.
+Import product-xbt_vb_mod.xml (in vB ACP - Plugin System - Manage products).
+Add xbt_cron.php to your crontab (*/5 * * * * php /home/xbt/public_html/xbt_cron.php).

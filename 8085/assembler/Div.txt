@@ -1,0 +1,12 @@
+Start:	LXI H, 200AH ;Load the HL pair
+	MVI C, 00H ;Load C with value
+	MOV A, M ;Move M to A
+	INX H ;Increase H 
+UP:	CMP M
+	JC ESC
+	SUB M
+	INR C
+	JMP UP
+ESC:	INX H
+	MOV M, C
+	HLT	

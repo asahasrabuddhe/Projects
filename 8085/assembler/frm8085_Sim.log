@@ -1,0 +1,4 @@
+Line 29: Class MSComctlLib.ProgressBar of control ProgressBar1 was not a loaded control class.
+Line 43: Class MSComctlLib.StatusBar of control StatusBar1 was not a loaded control class.
+Line 144: Class MSComDlg.CommonDialog of control ComnDlgOpen was not a loaded control class.
+Line 151: Class MSFlexGridLib.MSFlexGrid of control MSFlexGrdAssemble was not a loaded control class.
